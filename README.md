@@ -26,3 +26,5 @@ script python fundamental
 - Membuka project yang sudah di clone dengan command line
 - merubah file
 - mengirim file ke github
+- merubah di github
+- mes-pull ke local
