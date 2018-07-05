@@ -18,3 +18,4 @@ script python fundamental
 - Membuka project yang sudah di clone dengan command line
 - merubah file
 - mengirim file ke github 
+- kitu we
