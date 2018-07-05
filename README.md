@@ -1,4 +1,4 @@
-#Daftar buku pythonthusiast
+# Daftar buku pythonthusiast
 
 # fundamental
 script python fundamental
